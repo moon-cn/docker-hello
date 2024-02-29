@@ -1,1 +1,1 @@
-D
+FROM nginx
